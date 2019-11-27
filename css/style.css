@@ -241,7 +241,7 @@ h6 {
   right: 0;
   transition: all 0.5s;
   z-index: 997;
-  background-color:#ff80b3;
+  background-color:#FFC0CB;
 }
 
 .header-scrolled {
@@ -279,10 +279,10 @@ h6 {
 
 #logo {
   left: 0;
-  height: 70px;
+  height: 100px;
   width: auto;
   padding: 0;
-  margin-top: -25px;
+  margin-top: -50px;
   position: fixed;
 }
 
@@ -511,7 +511,7 @@ h6 {
 
 .nav-menu li:hover > a,
 .nav-menu > .menu-active > a {
-  color: #18d26e;
+  color:  #3C9593;
 }
 
 .nav-menu > li {
@@ -820,7 +820,7 @@ h2{
 --------------------------------*/
 
 #services {
-  background: #0099cc;
+  background:   #3C9593;
   background-size: cover;
   padding: 60px 0 40px 0;
 }
